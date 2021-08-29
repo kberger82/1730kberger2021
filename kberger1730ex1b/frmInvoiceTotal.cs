@@ -16,5 +16,16 @@ namespace kberger1730ex1b
         {
             InitializeComponent();
         }
+
+        private void btnCalculate_Click(object sender, EventArgs e)
+        {
+            //txtTotal.Text = "10";
+            //txtTotal.ReadOnly = false;
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
