@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kberger1730ex1b", "kberger1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kberger1730ex1c", "kberger1730ex1c\kberger1730ex1c.csproj", "{E99B7013-ACA8-41FC-B1D1-B79567B865CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kberger1730ex1d", "kberger1730ex1d\kberger1730ex1d.csproj", "{BE005CAC-B57A-409B-90C4-A017C89A8E20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E99B7013-ACA8-41FC-B1D1-B79567B865CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E99B7013-ACA8-41FC-B1D1-B79567B865CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E99B7013-ACA8-41FC-B1D1-B79567B865CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE005CAC-B57A-409B-90C4-A017C89A8E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE005CAC-B57A-409B-90C4-A017C89A8E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE005CAC-B57A-409B-90C4-A017C89A8E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE005CAC-B57A-409B-90C4-A017C89A8E20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
